@@ -1,0 +1,122 @@
+[
+  {
+    "template": "IT-Reply-Ticket-v1_2026_10_15",
+    "run": "A",
+    "words": 37,
+    "max_words": 110,
+    "prompt_sha256": "4c6397ae73e950499d224a7c88fc28a9cee29a2abde8e99932f6ef2cd24809a7",
+    "output_sha256": "b8cfdd186dbde9e27f290c476374dccedfa6739102190289d53bbce656be3fea"
+  },
+  {
+    "template": "IT-Reply-Ticket-v1_2026_10_15",
+    "run": "B",
+    "words": 42,
+    "max_words": 110,
+    "prompt_sha256": "7006676b34e78c7a84bbc63e938dd3fa7f8f790081c7031c6d3aa02ab1c0fd6d",
+    "output_sha256": "b97d4bf91c656c500ae3ae0509ff79532530a40bdd33f320d04a63554445b7d8"
+  },
+  {
+    "template": "IT-Reply-Ticket-v1_2026_10_15",
+    "run": "E",
+    "words": 62,
+    "max_words": 110,
+    "prompt_sha256": "63dd859f1005c133297413590218ee6689bc0e734de929bdd29a88919f7fbc0f",
+    "output_sha256": "1541473f2c372cf39a53d83152da442962d6b8780f970ed0c8c51d1d642c056a"
+  },
+  {
+    "template": "IT-Summarize-Thread-v1_2026_10_15",
+    "run": "A",
+    "words": 43,
+    "max_words": 90,
+    "prompt_sha256": "467e4d8bf70fb2e7e643e95648feb2d37cf41b62c7cdea68be86cd02b246d782",
+    "output_sha256": "ec1d7094a74433504809a0210f9633660eddfcca758f1ddf348477241592f086"
+  },
+  {
+    "template": "IT-Summarize-Thread-v1_2026_10_15",
+    "run": "B",
+    "words": 48,
+    "max_words": 90,
+    "prompt_sha256": "588fd1d34b00fdf47aefd2c5795ff9013d85966b63f7e909499a4b6983676a6e",
+    "output_sha256": "969ca32a1ffb55146a8cbdf3ea17c3d604bc961a699a15064e28f6196896a83b"
+  },
+  {
+    "template": "IT-Summarize-Thread-v1_2026_10_15",
+    "run": "E",
+    "words": 8,
+    "max_words": 90,
+    "prompt_sha256": "5321431c788e87430a721fcc351629a148a85aa7a290b984b3f09c5944aebad7",
+    "output_sha256": "65a3ef0dd46261e2659d79be9e3acfb5211d2202deff2a465e16b40ca8c34547"
+  },
+  {
+    "template": "IT-Classify-Ticket-v1_2026_10_15",
+    "run": "A",
+    "words": 21,
+    "max_words": 90,
+    "prompt_sha256": "95fd1774a5f04afcce1dae14b789f3540d158cbfe672beac564c08db456e1420",
+    "output_sha256": "27478a056806ad172ccbb085fa26f74420d54af1da169447107f2a2d929a0dbd"
+  },
+  {
+    "template": "IT-Classify-Ticket-v1_2026_10_15",
+    "run": "B",
+    "words": 25,
+    "max_words": 90,
+    "prompt_sha256": "b64cf656c7cd4fa821583f8ace0e89607d0edf3fef62257d85f3d6e20154bec6",
+    "output_sha256": "f01725cdea47c59a233dec9dd85d0a3532d7ef8ecb8d245e0d4df39a4327d9e0"
+  },
+  {
+    "template": "IT-Classify-Ticket-v1_2026_10_15",
+    "run": "E",
+    "words": 33,
+    "max_words": 90,
+    "prompt_sha256": "638263842962c99c7d03a58a3522974dfeecefb5a8fc5a0edc00f01529ffa424",
+    "output_sha256": "9aee5383497f90ad34b417daa1f58a8b1a723d325ae6cdce3c6f832a8773ef4d"
+  },
+  {
+    "template": "IT-Simplify-Answer-v1_2026_10_15",
+    "run": "A",
+    "words": 36,
+    "max_words": 110,
+    "prompt_sha256": "2fd6dca99bec75cdd809700190d9a11c4a5dea770b877661b4cbbbae9bb56f00",
+    "output_sha256": "02888af5950c808058d4c55106408c69140c26880f7f8779c71c041ff4daaeb2"
+  },
+  {
+    "template": "IT-Simplify-Answer-v1_2026_10_15",
+    "run": "B",
+    "words": 36,
+    "max_words": 110,
+    "prompt_sha256": "7c6202dad265748d54c88ef84efda56c21efdc9790a2a07762416ca2369d053e",
+    "output_sha256": "e957205e5cde905d1dfe957e9a671f92c5bea2f328db7233911c6e2f5da3a7e1"
+  },
+  {
+    "template": "IT-Simplify-Answer-v1_2026_10_15",
+    "run": "E",
+    "words": 53,
+    "max_words": 110,
+    "prompt_sha256": "7d546cea067845c2a715bb11c4c1f02f601e2a8e293ce5b47dcf33e2b4096417",
+    "output_sha256": "cb52cb1832268f9a1a99037c7644fb3da2e9388e0bd16bc6ad27185c11b6df35"
+  },
+  {
+    "template": "IT-Draft-Handoff-v1_2026_10_15",
+    "run": "A",
+    "words": 74,
+    "max_words": 130,
+    "prompt_sha256": "d462b005a5c50847689da644f82a1cc860ad910b4b56cacbe3e7724aa36b6a8f",
+    "output_sha256": "f515a247e4bca9f836ac1c57e701e02ad1e6ca7847ac2788961d485303b63faa"
+  },
+  {
+    "template": "IT-Draft-Handoff-v1_2026_10_15",
+    "run": "B",
+    "words": 71,
+    "max_words": 130,
+    "prompt_sha256": "3c9deb2e8e2396f71ad3600f3fbba3bba9bdf279a9993c61c9cc2b9f4eb0ca6c",
+    "output_sha256": "48096ba3989278c0a5ee82dfe9db2ac9da2663d3059af71998c3443f3009e90b"
+  },
+  {
+    "template": "IT-Draft-Handoff-v1_2026_10_15",
+    "run": "E",
+    "words": 67,
+    "max_words": 130,
+    "prompt_sha256": "9100d7c4dd897f23fd7afb61510c21a7affbdaf9ff10c98514839b49393e56f2",
+    "output_sha256": "dac92c0cb804f6e0573f913f3fa346d24b1410af2a1f8e827a96ce78b46d99fa"
+  }
+]
